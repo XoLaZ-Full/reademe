@@ -1,2 +1,2 @@
-# reademe
+# readme
 repoistorokgqfe
